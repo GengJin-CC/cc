@@ -1,0 +1,6 @@
+
+桂林新闻综合,rtmp://58.59.176.32/live/livestreame
+上思综合,http://pgclive.mcloud.gxcatv.com/live/zb05.flv
+
+CCTV1[1920*1080],http://pgclive.mcloud.gxcatv.com/live/zb13.flv
+CCTV1[1920*1080],http://113.64.147.61:808/hls/202/index.m3u8
